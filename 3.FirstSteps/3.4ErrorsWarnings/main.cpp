@@ -38,7 +38,7 @@ int main() {
 }
 
 // here the code has no syntax or compiler erros, so there is no error during the compilation process
-// here when we divide an integer by 0 the problems occurs 
+// here when we divide an integer by 0 the problems occurs This results in a runtime error known as "division by zero" or "floating-point exception,"
 
 // syntax errors = violate the rules of programming langauge syntax (errors are caught by the compiler during the compliation process)
 // compiler erros = semantic erros, errors beyond syntax  (errors are caught by the compiler during the compliation process)
